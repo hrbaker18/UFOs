@@ -22,9 +22,9 @@ In order to utilize the search bar, all the user needs to do is to enter one, or
 
 ![el_cajon](/static/images/el_cajon.png)
 
-### Summary 
+## Summary 
 
-#### Drawbacks and Further Recommendations 
+### Drawbacks and Further Recommendations 
 
 While the updated filter criteria are a massive plus for the website, users need to know the specific cities, dates, and shapes in order to accurately search through the UFO sightings. Additionally, when using the filters, everything must be in lowercase letters specifically, otherwise the filters will not return results. 
 
